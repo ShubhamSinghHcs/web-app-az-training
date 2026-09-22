@@ -7,4 +7,7 @@
     <RootNamespace>web_app_az_training</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="3.1.2" />
+  </ItemGroup>
 </Project>
